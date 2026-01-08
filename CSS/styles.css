@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #999;
+  border-radius: 0;
+}
+
+/* Mobile menu background */
+.navbar-nav {
+  background-color: #ccc;
+}
+
+/* Main content section */
+.menu-box {
+  background-color: #aaa;
+  height: 1000px;
+  padding: 20px;
+  margin-top: 20px;
+}
